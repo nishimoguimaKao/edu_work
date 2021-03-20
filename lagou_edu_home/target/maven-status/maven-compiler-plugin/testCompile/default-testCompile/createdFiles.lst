@@ -1,0 +1,7 @@
+com\lagou\testServlet\TestServlet2.class
+com\lagou\testBeanUtils\TestBeanUtils.class
+com\lagou\dao\TestCourseDao.class
+com\lagou\testServlet\TestServlet.class
+com\lagou\dao\TestCourseContentDao.class
+com\lagou\testFastjson\testFastjson.class
+com\lagou\testFastjson\Person.class
